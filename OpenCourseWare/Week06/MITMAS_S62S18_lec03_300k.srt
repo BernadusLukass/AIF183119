@@ -4197,8 +4197,8 @@ angka tua yang biasa.
 
 908
 00:40:44,880 --> 00:40:49,310
-The uppercase A and B will refer
-to points on the curve, OK?
+Huruf besar A dan B akan merujuk
+ke titik pada kurva, oke?
 
 909
 00:40:49,310 --> 00:40:52,080
