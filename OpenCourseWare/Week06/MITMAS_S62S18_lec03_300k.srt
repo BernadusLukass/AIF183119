@@ -4187,13 +4187,13 @@ katakanlah, seperti a dan b,
 
 906
 00:40:39,520 --> 00:40:41,760
-our lowercase numbers,
-these are scalars.
+angka kecil kami,
+adalah skalar.
 
 907
 00:40:41,760 --> 00:40:44,880
-Scalars just means
-regular old numbers.
+Skalars hanya berarti
+angka tua yang biasa.
 
 908
 00:40:44,880 --> 00:40:49,310
